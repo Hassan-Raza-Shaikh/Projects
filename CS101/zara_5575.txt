@@ -1,0 +1,88 @@
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 3
+
+Food Name: Mixed Vegetables
+Price: Rs 150
+Calories: 7
+
+Food Name: Nuggets
+Price: Rs 200
+Calories: 5
+
+Food Name: Mixed Vegetables
+Price: Rs 150
+Calories: 7
+
+Food Name: Beef Sandwich
+Price: Rs 400
+Calories: 2
+
+Food Name: Palak Paneer
+Price: Rs 200
+Calories: 9
+
+Food Name: Beef Stained Noodles
+Price: Rs 440
+Calories: 1
+
+Food Name: Mutton Kofte
+Price: Rs 280
+Calories: 5
+
+Food Name: Samosa
+Price: Rs 60
+Calories: 6
+
+Food Name: Palak Paneer
+Price: Rs 200
+Calories: 9
+
+Food Name: Tikka Pizza
+Price: Rs 1000
+Calories: 4
+
+Food Name: Mutton Karahi
+Price: Rs 280
+Calories: 2
+
+Food Name: Patti Burger
+Price: Rs 250
+Calories: 4
+
+Food Name: Seekh Kabab
+Price: Rs 220
+Calories: 5
+
+Food Name: Palak Paneer
+Price: Rs 200
+Calories: 9
+
+Food Name: Chicken Bites
+Price: Rs 270
+Calories: 7
+
+Food Name: Fish Karahi
+Price: Rs 400
+Calories: 8
+
+Food Name: Grilled Chicken Burger
+Price: Rs 290
+Calories: 1
+
+Food Name: Grilled Chicken Burger
+Price: Rs 290
+Calories: 1
+
+Food Name: Nuggets
+Price: Rs 200
+Calories: 5
+
+Food Name: Club Sandwich
+Price: Rs 300
+Calories: 9
+
+Food Name: Mughlai Chicken
+Price: Rs 300
+Calories: 700

@@ -1,0 +1,12 @@
+
+Food Name: Lasagne
+Price: Rs 450
+Calories: 700
+
+Food Name: Nuggets
+Price: Rs 200
+Calories: 300
+
+Food Name: Mutton Chomps
+Price: Rs 500
+Calories: 800

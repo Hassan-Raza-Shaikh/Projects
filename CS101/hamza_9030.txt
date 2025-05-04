@@ -1,0 +1,304 @@
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 3
+
+Food Name: Mixed Vegetables
+Price: Rs 150
+Calories: 7
+
+Food Name: Nuggets
+Price: Rs 200
+Calories: 5
+
+Food Name: Mixed Vegetables
+Price: Rs 150
+Calories: 7
+
+Food Name: Beef Sandwich
+Price: Rs 400
+Calories: 2
+
+Food Name: Palak Paneer
+Price: Rs 200
+Calories: 9
+
+Food Name: Beef Stained Noodles
+Price: Rs 440
+Calories: 1
+
+Food Name: Mutton Kofte
+Price: Rs 280
+Calories: 5
+
+Food Name: Samosa
+Price: Rs 60
+Calories: 6
+
+Food Name: Palak Paneer
+Price: Rs 200
+Calories: 9
+
+Food Name: Tikka Pizza
+Price: Rs 1000
+Calories: 4
+
+Food Name: Mutton Karahi
+Price: Rs 280
+Calories: 2
+
+Food Name: Patti Burger
+Price: Rs 250
+Calories: 4
+
+Food Name: Seekh Kabab
+Price: Rs 220
+Calories: 5
+
+Food Name: Palak Paneer
+Price: Rs 200
+Calories: 9
+
+Food Name: Chicken Bites
+Price: Rs 270
+Calories: 7
+
+Food Name: Fish Karahi
+Price: Rs 400
+Calories: 8
+
+Food Name: Chicken Korma
+Price: Rs 210
+Calories: 9
+
+Food Name: Aloo Fry
+Price: Rs 100
+Calories: 2
+
+Food Name: Chicken Bites
+Price: Rs 270
+Calories: 7
+
+Food Name: Mutton Tikka
+Price: Rs 300
+Calories: 8
+
+Food Name: Chicken Pulao
+Price: Rs 200
+Calories: 1
+
+Food Name: Club Sandwich
+Price: Rs 300
+Calories: 450
+
+Food Name: Channay
+Price: Rs 120
+Calories: 8
+
+Food Name: Qeema Biryani
+Price: Rs 300
+Calories: 5
+
+Food Name: Bhindi
+Price: Rs 100
+Calories: 3
+
+Food Name: Red Square Pasta
+Price: Rs 400
+Calories: 650
+
+Food Name: Beef Sandwich
+Price: Rs 400
+Calories: 550
+
+Food Name: Chicken Karahi
+Price: Rs 240
+Calories: 2
+
+Food Name: Chicken Karahi
+Price: Rs 240
+Calories: 2
+
+Food Name: Finger Fish
+Price: Rs 400
+Calories: 4
+
+Food Name: Beef Tikka Burger
+Price: Rs 400
+Calories: 600
+
+Food Name: Beef Sandwich
+Price: Rs 400
+Calories: 550
+
+Food Name: Fajita Pizza
+Price: Rs 1150
+Calories: 950
+
+Food Name: Qeema Biryani
+Price: Rs 300
+Calories: 5
+
+Food Name: Mutton Karahi
+Price: Rs 280
+Calories: 2
+
+Food Name: Tandori Pizza
+Price: Rs 1100
+Calories: 900
+
+Food Name: Mutton Pulao
+Price: Rs 320
+Calories: 6
+
+Food Name: Mutton Chomps
+Price: Rs 500
+Calories: 9
+
+Food Name: Chicken Kabli Pulao
+Price: Rs 250
+Calories: 2
+
+Food Name: Alfredo Pasta
+Price: Rs 360
+Calories: 600
+
+Food Name: Mutton Tikka
+Price: Rs 300
+Calories: 8
+
+Food Name: Finger Fish
+Price: Rs 400
+Calories: 4
+
+Food Name: Mutton Karahi
+Price: Rs 280
+Calories: 2
+
+Food Name: Chicken Roast
+Price: Rs 1000
+Calories: 7
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 1100
+
+Food Name: Daal Fry
+Price: Rs 140
+Calories: 5
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 1100
+
+Food Name: Mutton Korma
+Price: Rs 240
+Calories: 6
+
+Food Name: Mutton Tikka
+Price: Rs 300
+Calories: 8
+
+Food Name: Grilled Chicken Burger
+Price: Rs 290
+Calories: 450
+
+Food Name: Cheese Tikka
+Price: Rs 300
+Calories: 4
+
+Food Name: Samosa
+Price: Rs 60
+Calories: 150
+
+Food Name: Chicken Bites
+Price: Rs 270
+Calories: 400
+
+Food Name: Fish Karahi
+Price: Rs 400
+Calories: 8
+
+Food Name: Samosa
+Price: Rs 60
+Calories: 150
+
+Food Name: Lasagne
+Price: Rs 450
+Calories: 700
+
+Food Name: Bihari Tikka
+Price: Rs 230
+Calories: 2
+
+Food Name: Zinger Burger
+Price: Rs 300
+Calories: 600
+
+Food Name: Mutton Kofte
+Price: Rs 280
+Calories: 5
+
+Food Name: Mutton Pulao
+Price: Rs 320
+Calories: 6
+
+Food Name: Mutton Karahi
+Price: Rs 280
+Calories: 2
+
+Food Name: Daal Fry
+Price: Rs 140
+Calories: 5
+
+Food Name: Beef Tikka Burger
+Price: Rs 400
+Calories: 600
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 1100
+
+Food Name: Malai Boti
+Price: Rs 280
+Calories: 3
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 1100
+
+Food Name: Chicken Jalfarezi
+Price: Rs 290
+Calories: 5
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 1100
+
+Food Name: Aloo Fry
+Price: Rs 100
+Calories: 2
+
+Food Name: Qeema Biryani
+Price: Rs 300
+Calories: 5
+
+Food Name: Aloo Palak
+Price: Rs 130
+Calories: 1
+
+Food Name: Mutton Tikka
+Price: Rs 300
+Calories: 8
+
+Food Name: Alfredo Pasta
+Price: Rs 360
+Calories: 600
+
+Food Name: Beef Pizza
+Price: Rs 1500
+Calories: 1100
+
+Food Name: Mutton Chomps
+Price: Rs 500
+Calories: 800
