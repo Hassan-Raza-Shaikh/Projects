@@ -1,0 +1,24 @@
+level: 1
+ecopoints: 30
+funds: 120
+health: 100
+hunger: 98
+houseUp: 1
+hospitalUp: 1
+officeUp: 1
+restaurantUp: 1
+schoolUp: 1
+bankUp: 1
+casinoUp: 1
+envUp: 1
+recUp: 1
+gardenUp: 1
+vehicle: 0
+pollutionlevel: 0
+lastSaveTime: 1746447697
+levelPoints: 30
+hasLoan: 0
+loanAmount: 0
+lenderName: 
+loanStartDate: 
+cityName: GIKI KPK

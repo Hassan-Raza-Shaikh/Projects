@@ -1,0 +1,81 @@
+WELCOME TO ECO CITY!
+
+HOW TO PLAY:
+Eco City is a simulation game where you build and manage a sustainable city. Your goal is to create a thriving, eco-friendly community while managing resources and making environmentally conscious decisions.
+
+STARTING RESOURCES:
+- New players begin with 500 funds
+- Level 1
+- Full health and hunger
+- Basic buildings unlocked
+
+ECO-POINTS SYSTEM:
+- Eco points are earned through environmentally friendly actions
+- Planting trees, using sustainable transport, and participating in eco-activities earn eco points
+- Pollution reduces your eco points
+- Higher eco points lead to higher levels and more opportunities
+
+LEVELS BASED ON ECO-POINTS:
+- Level 1: Starting level with basic buildings
+- Level 2: Unlock bicycle transport
+- Level 3: Access to Eco Summit
+- Level 4: Unlock regular car
+- Level 6: Unlock electric car
+
+YOUR GOAL:
+Build a sustainable city by:
+- Managing your funds wisely
+- Reducing pollution
+- Increasing eco points
+- Upgrading buildings
+- Participating in community activities
+- Making environmentally conscious decisions
+
+TIPS:
+- Keep your health and hunger levels high
+- Visit the hospital when health is low
+- Eat at the restaurant or home when hungry
+- Work at the office to earn funds
+- Study at school to earn eco points
+- Use the bank to grow your funds
+- Plant trees to reduce pollution
+- Use sustainable transport options
+- Participate in the Eco Summit for special rewards
+- Check the news feed for updates
+- Complete daily and weekly challenges
+- Visit the Recycling Center to reduce pollution
+- Help in the Community Garden for eco points
+
+WARNING: Don't let your health or hunger reach zero, or you'll lose the game!
+
+GAME ENDING CONDITIONS:
+- LOSE: If your health or hunger reaches zero
+- WIN: Achieve level 10 and maintain a pollution level of 0 for 5 in-game days (50 actions)
+- SAVE & EXIT: You can save your progress and exit the game at any time using option 0 in the main menu
+
+BUILDINGS AND THEIR FUNCTIONS:
+- House: Sleep, eat, and relax
+- Hospital: Restore health
+- Office: Work to earn funds
+- Restaurant: Eat to restore hunger
+- School: Study to earn eco points
+- Bank: Earn interest on your funds
+- Casino: Gamble your funds (risky!)
+- Environment Center: Plant trees and reduce pollution
+- Recycling Center: Process waste and reduce pollution
+- Community Garden: Volunteer for eco points and health
+
+TRANSPORT OPTIONS:
+- Walking: Free, no impact on environment
+- Bicycle: Eco-friendly, requires level 2
+- Regular Car: Fast but increases pollution
+- Electric Car: Fast and eco-friendly, requires level 6
+
+SPECIAL FEATURES:
+- News Feed: Stay updated with city events
+- Achievements: Unlock badges for accomplishments
+- Challenges: Complete daily and weekly tasks
+- Eco Summit: Collaborate with other players
+- Loan System: Borrow funds when needed
+
+Remember: Every decision you make affects your city's sustainability. Choose wisely and build a greener future!
