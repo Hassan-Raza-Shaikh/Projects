@@ -1,0 +1,4 @@
+
+Food Name: Samosa
+Price: Rs 60
+Calories: 150

@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hassan/Library/CloudStorage/OneDrive-HigherEducationCommission/Projects/CS101",
+      "program": "/Users/hassan/Library/CloudStorage/OneDrive-HigherEducationCommission/Projects/CS101/build/Debug/outDebug"
+    }
+  ]
+}

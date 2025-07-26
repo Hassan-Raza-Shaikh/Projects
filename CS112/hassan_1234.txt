@@ -1,8 +1,8 @@
 level: 9
-ecopoints: 815
-funds: 7365
-health: 98
-hunger: 58
+ecopoints: 835
+funds: 84955
+health: 97
+hunger: 98
 houseUp: 3
 hospitalUp: 3
 officeUp: 3
@@ -13,10 +13,10 @@ casinoUp: 3
 envUp: 3
 recUp: 1
 gardenUp: 2
-vehicle: 0
+vehicle: 3
 pollutionlevel: 0
-lastSaveTime: 1746844407
-levelPoints: 15
+lastSaveTime: 1753531091
+levelPoints: 35
 hasLoan: 0
 loanAmount: 0
 lenderName: 
